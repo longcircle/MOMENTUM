@@ -1,4 +1,3 @@
-const title = document.querySelector(".hello h1:second-child");
+const title = document.querySelector(".hello h1");
 
-console.log(title);
-title.innerText = "Got You!";
+title.addEventListener;
