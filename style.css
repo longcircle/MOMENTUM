@@ -2,6 +2,16 @@ body {
   background-color: beige;
 }
 
-.hello h1 {
-  color: rgb(25, 25, 25);
+h1 {
+  color: cornflowerblue;
+  transition: color 1s ease-in-out;
+}
+
+.clicked {
+  color: tomato;
+}
+
+.sexy-font {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
